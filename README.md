@@ -1,3 +1,17 @@
+The form component is named : Add.js
+The itemlist component is named : Product.js
+The CardTotal component is named : Total.js
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
